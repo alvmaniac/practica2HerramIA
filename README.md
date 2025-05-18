@@ -8,7 +8,7 @@ mlflow ui --port 9090
 
 python train_model.py
 
--- El modelo se depliega en http://loclahost:9090
+-- El modelo se depliega en http://localhost:9090
 
 3. **Ejecuta el servicio de predicción:**
 
